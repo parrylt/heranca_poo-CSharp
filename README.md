@@ -7,6 +7,6 @@ aprendendo herança com programação orientada a objeto. C# no Visual Studio.
 </div>
 <br><br>
 <div align="center">
-  <h3>Resultado com os esquemas que herdou de outro método</h3>
+  <h3>Resultado</h3>
   <img src="imagensAPP/2.png">
 </div>
